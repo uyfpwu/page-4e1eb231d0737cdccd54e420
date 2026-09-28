@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8415daae8fb44f623d7bae41",
+  "owner": "uyfpwu",
+  "repo": "page-4e1eb231d0737cdccd54e420",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4e1eb231d0737cdccd54e420",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ad04f30af9a2a64615e733d844dc4150efd88a3ce5386cb6d7d3650ef579cab0",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬 VPN 加速器为您提供安全稳定的网络加速服务，支持流媒体解锁和游戏优化。立即下载客户端，畅享高速上网体验。",
+          "AI_DESCRIPTION": "快柠檬 VPN 加速器为您提供安全稳定的网络加速服务，支持流媒体解锁和游戏优化。立即下载客户端，畅享高速上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: system-ui, -apple-system, sans-serif;\n  background: #FAF8F5;\n  color: #2C3E50;\n  margin: 0;\n  padding: 0;\n  line-height: 1.7;\n}\nheader {\n  background: white;\n  padding: 1rem 5%;\n  position: sticky;\n  top: 0;\n  z-index: 100;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n}\nnav {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  max-width: 1200px;\n  margin: 0 auto;\n}\n.logo {\n  font-size: 1.8rem;\n  font-weight: bold;\n  color: #FF6B6B;\n}\n.nav-links a {\n  margin-left: 2rem;\n  color: #2C3E50;\n  text-decoration: none;\n  font-weight: 500;\n}\n.hero {\n  background: linear-gradient(to right, #FF6B6B, #FFB6B9);\n  color: white;\n  padding: 4rem 5%;\n  text-align: center;\n}\n.hero h1 {\n  font-size: 2.8rem;\n  margin-bottom: 1rem;\n}\n.hero p {\n  font-size: 1.3rem;\n  margin-bottom: 2rem;\n}\n.btn {\n  background: white;\n  color: #FF6B6B;\n  padding: 0.8rem 2rem;\n  border-radius: 30px;\n  text-decoration: none;\n  font-weight: bold;\n  display: inline-block;\n}\n.btn:hover {\n  background: #FF6B6B;\n  color: white;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 0 5%;\n}\n.intro {\n  display: flex;\n  align-items: center;\n  gap: 3rem;\n  margin-bottom: 4rem;\n  flex-wrap: wrap;\n}\n.intro-text {\n  flex: 1;\n  min-width: 300px;\n}\n.intro-text h2 {\n  color: #FF6B6B;\n  margin-bottom: 1rem;\n}\n.intro-image {\n  flex: 1;\n  background: linear-gradient(135deg, #FF6B6B, #FFB6B9);\n  color: white;\n  height: 320px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 1.6rem;\n  border-radius: 12px;\n  text-align: center;\n  box-shadow: 0 4px 20px rgba(255,107,107,0.3);\n}\n.plans-section {\n  margin: 4rem 0;\n}\n.plans-container {\n  display: flex;\n  justify-content: space-between;\n  gap: 2rem;\n  flex-wrap: wrap;\n}\n.plan-placeholder {\n  flex: 1;\n  min-width: 280px;\n  background: white;\n  border-radius: 12px;\n  padding: 2rem;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.08);\n}\n.faq {\n  margin: 4rem 0;\n}\n.faq details {\n  margin-bottom: 1.5rem;\n  background: white;\n  border-radius: 8px;\n  padding: 1.2rem;\n  box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n}\n.faq summary {\n  font-weight: bold;\n  font-size: 1.15rem;\n  cursor: pointer;\n  color: #2C3E50;\n}\n.download-section {\n  display: flex;\n  align-items: center;\n  gap: 3rem;\n  background: linear-gradient(135deg, #FF6B6B, #FF8C9E);\n  color: white;\n  padding: 3rem;\n  border-radius: 12px;\n  margin: 4rem 0;\n}\n.download-section h2 {\n  color: white;\n  margin-bottom: 1rem;\n}\n.footer {\n  background: #2C3E50;\n  color: white;\n  padding: 2rem 5%;\n  text-align: center;\n  font-size: 0.95rem;\n}\n@media (max-width: 768px) {\n  .intro {\n    flex-direction: column;\n  }\n  .plans-container {\n    flex-direction: column;\n  }\n  .plan-placeholder {\n    width: 100%;\n  }\n}\n</style>\n\n\n<header>\n  <nav>\n    <div class=\"logo\">快柠檬</div>\n    <div class=\"nav-links\">\n      <a href=\"#intro\">产品介绍</a>\n      <a href=\"#plans\">套餐选择</a>\n      <a href=\"#faq\">常见问题</a>\n      <a href=\"#download\">客户端下载</a>\n    </div>\n  </nav>\n</header>\n\n<section class=\"hero\">\n  <h1>快柠檬 VPN 加速器</h1>\n  <p>高速稳定，畅享全球内容</p>\n  <a href=\"#plans\" class=\"btn\">立即选择套餐</a>\n</section>\n\n<main>\n  <section id=\"intro\" class=\"intro\">\n    <div class=\"intro-text\">\n      <h2>快柠檬 VPN 简介</h2>\n      <p>快柠檬是一款专注于网络加速的VPN服务，致力于为用户提供稳定可靠的上网体验。</p>\n      <p>无论日常浏览还是娱乐需求，都能找到合适的解决方案。</p>\n    </div>\n    <div class=\"intro-image\">\n      快柠檬 VPN\n加速上网\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans-section\">\n    <h2>套餐对比</h2>\n    <div class=\"plans-container\">\n      {{PLANS_HTML}}\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2>使用场景</h2>\n    <div class=\"intro\">\n      <div class=\"intro-text\">\n        <h3>个人用户场景</h3>\n        <p>适合日常上网和娱乐，获得基础加速体验。</p>\n        <h3>团队与企业场景</h3>\n        <p>支持多设备连接，提供定制化网络路由解决方案。</p>\n      </div>\n      <div class=\"intro-image\">\n        网络加速\n全球畅行\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>快柠檬 VPN 能解锁流媒体吗？</summary>\n      <p>是的，根据您的套餐选择，支持不同级别的流媒体解锁。</p>\n    </details>\n    <details>\n      <summary>支持几台设备同时在线？</summary>\n      <p>不同套餐提供不同数量的设备支持。</p>\n    </details>\n    <details>\n      <summary>如何下载客户端？</summary>\n      <p>在官网下载页面获取对应平台的客户端。</p>\n    </details>\n    <details>\n      <summary>提供哪些节点池？</summary>\n      <p>包含普通线路节点池和专线节点。</p>\n    </details>\n    <details>\n      <summary>团队版有什么特殊服务？</summary>\n      <p>提供VIP专属服务和定制支持。</p>\n    </details>\n  </section>\n\n  <section id=\"download\" class=\"download-section\">\n    <div>\n      <h2>客户端下载</h2>\n      <p>立即下载快柠檬 VPN 客户端，开启安全加速之旅。</p>\n      {{CLIENTS_HTML}}\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>© 快柠檬 VPN 2024 所有权利保留</p>\n</footer>\n\n",
+          "hash": "381ace83d1951451767cb4b7ec715a51b49f510ddb1248a25b8c10f2e0dc845a",
+          "seo": {
+            "title": "快柠檬 VPN 加速器 | 快柠檬官网 - 客户端下载",
+            "keywords": "快柠檬, VPN加速器, 机场订阅, 快柠檬VPN, 客户端下载",
+            "description": "快柠檬 VPN 加速器为您提供安全稳定的网络加速服务，支持流媒体解锁和游戏优化。立即下载客户端，畅享高速上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shhxgylp.cn",
+    "host": "home.shhxgylp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "shhxgylp.cn",
+      "url": "https://shhxgylp.cn/",
+      "label": "GOOGO",
+      "apex": "shhxgylp.cn",
+      "kind": null,
+      "identity": "espdhy/page-9f947283a9338dcb9eea2f73"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e62969a7a8699331500a6d1becbc0af70dcf3fbff76e49ea2cd4c3d5809124be",
+    "sitemap.xml": "9240e819d192061c25978a90f80664bf14ce531da72461d0bef9ae977cf2ada8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de4d4e9d4177d675195085453dfd0d3758b3a24520639d1ccf9d333009348aba",
+    "robots.txt": "753e91b68dce700a48f6369c0757f2961ad6742b035a77fabf86a95ee17539bb",
+    "5abd860a3057ec41307c41d767fae7c4.txt": "0bc5ec6743ec8bf99def1a4ce9b799d46061087ad479cf523e176a0f74d700b6"
+  },
+  "revision": "2832b7b5bea24e2b3bb2df71c3c134120dea89cfa1d04791782f77ab3554c5b2"
+}
